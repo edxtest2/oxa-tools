@@ -75,7 +75,7 @@
       "value": 1
     },
     "oxaToolsGithubAccountName": {
-      "value": "oxatest"
+      "value": "edxtest2"
     },
     "oxaToolsGithubProjectName": {
       "value": "oxa-tools"
@@ -84,7 +84,7 @@
       "value": "oxa/master.fic"
     },
     "edxConfigurationGithubAccountName": {
-      "value": "oxatest"
+      "value": "edxtest2"
     },
     "edxConfigurationGithubProjectName": {
       "value": "edx-configuration"
@@ -93,7 +93,7 @@
       "value": "oxa/master.fic"
     },
     "edxPlatformGithubAccountName": {
-      "value": "oxatest"
+      "value": "edxtest2"
     },
     "edxPlatformGithubProjectName": {
       "value": "edx-platform"
@@ -102,7 +102,7 @@
       "value": "oxa/master.fic"
     },
     "edxThemeGithubAccountName": {
-      "value": "oxatest"
+      "value": "edxtest2"
     },
     "edxThemeGithubProjectName": {
       "value": "edx-theme"
@@ -111,7 +111,7 @@
       "value": "oxa/master.fic"
     },
     "ansibleGithubAccountName": {
-      "value": "oxatest"
+      "value": "edxtest2"
     },
     "ansibleGithubProjectName": {
       "value": "ansible"
@@ -254,7 +254,7 @@
       "value": ""
     },
     "baseDomain": {
-      "value": "{CLUSTERNAME}-tm.trafficmanager.net"
+      "value": ""
     },
     "domainSeparator": {
       "value": "-"
